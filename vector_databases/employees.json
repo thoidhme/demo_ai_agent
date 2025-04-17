@@ -1,0 +1,542 @@
+[
+  {
+    "id": "user_001",
+    "name": "Stephanie Patel",
+    "email": "watsondaniel@davies-cardenas.com",
+    "department": "IT",
+    "role": "Developer",
+    "past_projects": ["HR Management System", "Analytics Dashboard"],
+    "current_projects": ["Internal Chat Tool"],
+    "skills": ["SQL", "Python", "Node.js"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Responsible",
+      "Testing": "Consulted",
+      "Product Approval": "Informed"
+    },
+    "description": "Stephanie Patel is a Developer in the IT department. They have previously worked on projects such as HR Management System, Analytics Dashboard and are currently involved in Internal Chat Tool. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Responsible), Testing (Consulted), Product Approval (Informed). They possess skills such as SQL, Python, Node.js."
+  },
+  {
+    "id": "user_002",
+    "name": "Carol Buchanan",
+    "email": "joshua97@price-brooks.com",
+    "department": "IT",
+    "role": "Developer",
+    "past_projects": ["E-Commerce Platform", "Cloud Storage Integration"],
+    "current_projects": ["Analytics Dashboard"],
+    "skills": ["Python", "Java", "React"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Responsible",
+      "Testing": "Consulted",
+      "Product Approval": "Informed"
+    },
+    "description": "Carol Buchanan is a Developer in the IT department. They have previously worked on projects such as E-Commerce Platform, Cloud Storage Integration and are currently involved in Analytics Dashboard. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Responsible), Testing (Consulted), Product Approval (Informed). They possess skills such as Python, Java, React."
+  },
+  {
+    "id": "user_003",
+    "name": "Karen Maddox",
+    "email": "theresamills@cruz.com",
+    "department": "Project Management",
+    "role": "Manager",
+    "past_projects": ["E-Commerce Platform", "DevOps Pipeline Automation"],
+    "current_projects": ["Customer Portal"],
+    "skills": ["Scrum", "Stakeholder Management", "Agile"],
+    "raci": {
+      "Requirement Analysis": "Accountable",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Consulted",
+      "Product Approval": "Responsible"
+    },
+    "description": "Karen Maddox is a Manager in the Project Management department. They have previously worked on projects such as E-Commerce Platform, DevOps Pipeline Automation and are currently involved in Customer Portal. Their responsibilities in the RACI model include: Requirement Analysis (Accountable), UI/UX Design (Informed), Feature Development (Informed), Testing (Consulted), Product Approval (Responsible). They possess skills such as Scrum, Stakeholder Management, Agile."
+  },
+  {
+    "id": "user_004",
+    "name": "Patricia Hernandez",
+    "email": "tracycallahan@brown.net",
+    "department": "Project Management",
+    "role": "Manager",
+    "past_projects": ["HR Management System", "Customer Portal"],
+    "current_projects": ["CRM Upgrade"],
+    "skills": ["Scrum", "Team Leadership", "Stakeholder Management"],
+    "raci": {
+      "Requirement Analysis": "Accountable",
+      "UI/UX Design": "Consulted",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Responsible"
+    },
+    "description": "Patricia Hernandez is a Manager in the Project Management department. They have previously worked on projects such as HR Management System, Customer Portal and are currently involved in CRM Upgrade. Their responsibilities in the RACI model include: Requirement Analysis (Accountable), UI/UX Design (Consulted), Feature Development (Informed), Testing (Informed), Product Approval (Responsible). They possess skills such as Scrum, Team Leadership, Stakeholder Management."
+  },
+  {
+    "id": "user_005",
+    "name": "Susan Sullivan",
+    "email": "kpatterson@watson.biz",
+    "department": "Design",
+    "role": "Designer",
+    "past_projects": ["E-Commerce Platform", "HR Management System"],
+    "current_projects": ["Customer Portal"],
+    "skills": ["Wireframing", "Adobe XD", "UI/UX"],
+    "raci": {
+      "Requirement Analysis": "Consulted",
+      "UI/UX Design": "Responsible",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Informed"
+    },
+    "description": "Susan Sullivan is a Designer in the Design department. They have previously worked on projects such as E-Commerce Platform, HR Management System and are currently involved in Customer Portal. Their responsibilities in the RACI model include: Requirement Analysis (Consulted), UI/UX Design (Responsible), Feature Development (Informed), Testing (Informed), Product Approval (Informed). They possess skills such as Wireframing, Adobe XD, UI/UX."
+  },
+  {
+    "id": "user_006",
+    "name": "Carol Perkins",
+    "email": "adamslouis@hotmail.com",
+    "department": "Business",
+    "role": "Client",
+    "past_projects": ["Analytics Dashboard", "Customer Portal"],
+    "current_projects": ["DevOps Pipeline Automation"],
+    "skills": ["Product Strategy", "Business Analysis", "Communication"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Responsible"
+    },
+    "description": "Carol Perkins is a Client in the Business department. They have previously worked on projects such as Analytics Dashboard, Customer Portal and are currently involved in DevOps Pipeline Automation. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Informed), Product Approval (Responsible). They possess skills such as Product Strategy, Business Analysis, Communication."
+  },
+  {
+    "id": "user_007",
+    "name": "Daniel Perez",
+    "email": "wilsonzachary@blankenship.info",
+    "department": "IT",
+    "role": "Developer",
+    "past_projects": ["E-Commerce Platform", "Internal Chat Tool"],
+    "current_projects": ["Mobile App Development"],
+    "skills": ["SQL", "JavaScript", "React"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Responsible",
+      "Testing": "Consulted",
+      "Product Approval": "Informed"
+    },
+    "description": "Daniel Perez is a Developer in the IT department. They have previously worked on projects such as E-Commerce Platform, Internal Chat Tool and are currently involved in Mobile App Development. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Responsible), Testing (Consulted), Product Approval (Informed). They possess skills such as SQL, JavaScript, React."
+  },
+  {
+    "id": "user_008",
+    "name": "Renee Thompson",
+    "email": "qarroyo@jordan.com",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["E-Commerce Platform", "Customer Portal"],
+    "current_projects": ["Analytics Dashboard"],
+    "skills": ["Postman", "Test Automation", "Selenium"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "Renee Thompson is a QC Tester in the Quality Assurance department. They have previously worked on projects such as E-Commerce Platform, Customer Portal and are currently involved in Analytics Dashboard. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as Postman, Test Automation, Selenium."
+  },
+  {
+    "id": "user_009",
+    "name": "Kenneth Martin",
+    "email": "christopher17@davis.com",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["Internal Chat Tool", "DevOps Pipeline Automation"],
+    "current_projects": ["Customer Portal"],
+    "skills": ["JIRA", "Selenium", "Postman"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "Kenneth Martin is a QC Tester in the Quality Assurance department. They have previously worked on projects such as Internal Chat Tool, DevOps Pipeline Automation and are currently involved in Customer Portal. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as JIRA, Selenium, Postman."
+  },
+  {
+    "id": "user_010",
+    "name": "Robert Reyes",
+    "email": "jennifer30@yahoo.com",
+    "department": "IT",
+    "role": "Developer",
+    "past_projects": ["CRM Upgrade", "E-Commerce Platform"],
+    "current_projects": ["HR Management System"],
+    "skills": ["SQL", "Python", "Java"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Responsible",
+      "Testing": "Consulted",
+      "Product Approval": "Informed"
+    },
+    "description": "Robert Reyes is a Developer in the IT department. They have previously worked on projects such as CRM Upgrade, E-Commerce Platform and are currently involved in HR Management System. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Responsible), Testing (Consulted), Product Approval (Informed). They possess skills such as SQL, Python, Java."
+  },
+  {
+    "id": "user_011",
+    "name": "Gary Watkins",
+    "email": "heatherhernandez@yahoo.com",
+    "department": "Business",
+    "role": "Client",
+    "past_projects": ["Internal Chat Tool", "DevOps Pipeline Automation"],
+    "current_projects": ["E-Commerce Platform"],
+    "skills": ["Business Analysis", "Product Strategy", "Communication"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Responsible"
+    },
+    "description": "Gary Watkins is a Client in the Business department. They have previously worked on projects such as Internal Chat Tool, DevOps Pipeline Automation and are currently involved in E-Commerce Platform. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Informed), Product Approval (Responsible). They possess skills such as Business Analysis, Product Strategy, Communication."
+  },
+  {
+    "id": "user_012",
+    "name": "Jason Hunt",
+    "email": "qgibson@yahoo.com",
+    "department": "Project Management",
+    "role": "Manager",
+    "past_projects": ["E-Commerce Platform", "Website Revamp"],
+    "current_projects": ["Mobile App Development"],
+    "skills": ["Agile", "Team Leadership", "Stakeholder Management"],
+    "raci": {
+      "Requirement Analysis": "Accountable",
+      "UI/UX Design": "Consulted",
+      "Feature Development": "Consulted",
+      "Testing": "Informed",
+      "Product Approval": "Responsible"
+    },
+    "description": "Jason Hunt is a Manager in the Project Management department. They have previously worked on projects such as E-Commerce Platform, Website Revamp and are currently involved in Mobile App Development. Their responsibilities in the RACI model include: Requirement Analysis (Accountable), UI/UX Design (Consulted), Feature Development (Consulted), Testing (Informed), Product Approval (Responsible). They possess skills such as Agile, Team Leadership, Stakeholder Management."
+  },
+  {
+    "id": "user_013",
+    "name": "Jason Mcdonald",
+    "email": "pmills@hoffman.com",
+    "department": "IT",
+    "role": "Developer",
+    "past_projects": ["DevOps Pipeline Automation", "Customer Portal"],
+    "current_projects": ["E-Commerce Platform"],
+    "skills": ["Java", "JavaScript", "Python"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Responsible",
+      "Testing": "Consulted",
+      "Product Approval": "Informed"
+    },
+    "description": "Jason Mcdonald is a Developer in the IT department. They have previously worked on projects such as DevOps Pipeline Automation, Customer Portal and are currently involved in E-Commerce Platform. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Responsible), Testing (Consulted), Product Approval (Informed). They possess skills such as Java, JavaScript, Python."
+  },
+  {
+    "id": "user_014",
+    "name": "Jennifer Saunders",
+    "email": "keithblack@rojas-henry.net",
+    "department": "IT",
+    "role": "Developer",
+    "past_projects": ["Analytics Dashboard", "Customer Portal"],
+    "current_projects": ["Website Revamp"],
+    "skills": ["SQL", "Python", "JavaScript"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Responsible",
+      "Testing": "Consulted",
+      "Product Approval": "Informed"
+    },
+    "description": "Jennifer Saunders is a Developer in the IT department. They have previously worked on projects such as Analytics Dashboard, Customer Portal and are currently involved in Website Revamp. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Responsible), Testing (Consulted), Product Approval (Informed). They possess skills such as SQL, Python, JavaScript."
+  },
+  {
+    "id": "user_015",
+    "name": "Thomas Thomas",
+    "email": "yrosales@stewart.com",
+    "department": "IT",
+    "role": "Developer",
+    "past_projects": ["CRM Upgrade", "Customer Portal"],
+    "current_projects": ["DevOps Pipeline Automation"],
+    "skills": ["React", "JavaScript", "Java"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Responsible",
+      "Testing": "Consulted",
+      "Product Approval": "Informed"
+    },
+    "description": "Thomas Thomas is a Developer in the IT department. They have previously worked on projects such as CRM Upgrade, Customer Portal and are currently involved in DevOps Pipeline Automation. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Responsible), Testing (Consulted), Product Approval (Informed). They possess skills such as React, JavaScript, Java."
+  },
+  {
+    "id": "user_016",
+    "name": "Edward Martinez",
+    "email": "jennifer88@jones.net",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["Mobile App Development", "HR Management System"],
+    "current_projects": ["Website Revamp"],
+    "skills": ["JIRA", "Selenium", "Test Automation"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "Edward Martinez is a QC Tester in the Quality Assurance department. They have previously worked on projects such as Mobile App Development, HR Management System and are currently involved in Website Revamp. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as JIRA, Selenium, Test Automation."
+  },
+  {
+    "id": "user_017",
+    "name": "Maria Ochoa",
+    "email": "andersonclaire@yahoo.com",
+    "department": "Design",
+    "role": "Designer",
+    "past_projects": ["Website Revamp", "E-Commerce Platform"],
+    "current_projects": ["HR Management System"],
+    "skills": ["Figma", "Sketch", "UI/UX"],
+    "raci": {
+      "Requirement Analysis": "Consulted",
+      "UI/UX Design": "Responsible",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Informed"
+    },
+    "description": "Maria Ochoa is a Designer in the Design department. They have previously worked on projects such as Website Revamp, E-Commerce Platform and are currently involved in HR Management System. Their responsibilities in the RACI model include: Requirement Analysis (Consulted), UI/UX Design (Responsible), Feature Development (Informed), Testing (Informed), Product Approval (Informed). They possess skills such as Figma, Sketch, UI/UX."
+  },
+  {
+    "id": "user_018",
+    "name": "Evan Green",
+    "email": "ralph12@jimenez.com",
+    "department": "Design",
+    "role": "Designer",
+    "past_projects": ["Internal Chat Tool", "Cloud Storage Integration"],
+    "current_projects": ["Analytics Dashboard"],
+    "skills": ["Figma", "Adobe XD", "Wireframing"],
+    "raci": {
+      "Requirement Analysis": "Consulted",
+      "UI/UX Design": "Responsible",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Informed"
+    },
+    "description": "Evan Green is a Designer in the Design department. They have previously worked on projects such as Internal Chat Tool, Cloud Storage Integration and are currently involved in Analytics Dashboard. Their responsibilities in the RACI model include: Requirement Analysis (Consulted), UI/UX Design (Responsible), Feature Development (Informed), Testing (Informed), Product Approval (Informed). They possess skills such as Figma, Adobe XD, Wireframing."
+  },
+  {
+    "id": "user_019",
+    "name": "Kathy Ward",
+    "email": "usmall@arellano-wade.org",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["Analytics Dashboard", "DevOps Pipeline Automation"],
+    "current_projects": ["Mobile App Development"],
+    "skills": ["Manual Testing", "Postman", "JIRA"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "Kathy Ward is a QC Tester in the Quality Assurance department. They have previously worked on projects such as Analytics Dashboard, DevOps Pipeline Automation and are currently involved in Mobile App Development. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as Manual Testing, Postman, JIRA."
+  },
+  {
+    "id": "user_020",
+    "name": "Amber Martin",
+    "email": "ashley32@munoz.org",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["Customer Portal", "Analytics Dashboard"],
+    "current_projects": ["CRM Upgrade"],
+    "skills": ["Manual Testing", "JIRA", "Postman"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "Amber Martin is a QC Tester in the Quality Assurance department. They have previously worked on projects such as Customer Portal, Analytics Dashboard and are currently involved in CRM Upgrade. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as Manual Testing, JIRA, Postman."
+  },
+  {
+    "id": "user_021",
+    "name": "Jennifer Gray",
+    "email": "nolanmichael@hotmail.com",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["Analytics Dashboard", "Customer Portal"],
+    "current_projects": ["CRM Upgrade"],
+    "skills": ["Manual Testing", "Postman", "Selenium"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "Jennifer Gray is a QC Tester in the Quality Assurance department. They have previously worked on projects such as Analytics Dashboard, Customer Portal and are currently involved in CRM Upgrade. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as Manual Testing, Postman, Selenium."
+  },
+  {
+    "id": "user_022",
+    "name": "Alex Elliott",
+    "email": "gwilson@hotmail.com",
+    "department": "Design",
+    "role": "Designer",
+    "past_projects": ["CRM Upgrade", "Analytics Dashboard"],
+    "current_projects": ["DevOps Pipeline Automation"],
+    "skills": ["UI/UX", "Wireframing", "Figma"],
+    "raci": {
+      "Requirement Analysis": "Consulted",
+      "UI/UX Design": "Responsible",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Informed"
+    },
+    "description": "Alex Elliott is a Designer in the Design department. They have previously worked on projects such as CRM Upgrade, Analytics Dashboard and are currently involved in DevOps Pipeline Automation. Their responsibilities in the RACI model include: Requirement Analysis (Consulted), UI/UX Design (Responsible), Feature Development (Informed), Testing (Informed), Product Approval (Informed). They possess skills such as UI/UX, Wireframing, Figma."
+  },
+  {
+    "id": "user_023",
+    "name": "Christopher Duarte",
+    "email": "patricksimmons@yahoo.com",
+    "department": "Project Management",
+    "role": "Manager",
+    "past_projects": ["Cloud Storage Integration", "E-Commerce Platform"],
+    "current_projects": ["Website Revamp"],
+    "skills": ["Stakeholder Management", "Agile", "Team Leadership"],
+    "raci": {
+      "Requirement Analysis": "Accountable",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Consulted",
+      "Testing": "Informed",
+      "Product Approval": "Responsible"
+    },
+    "description": "Christopher Duarte is a Manager in the Project Management department. They have previously worked on projects such as Cloud Storage Integration, E-Commerce Platform and are currently involved in Website Revamp. Their responsibilities in the RACI model include: Requirement Analysis (Accountable), UI/UX Design (Informed), Feature Development (Consulted), Testing (Informed), Product Approval (Responsible). They possess skills such as Stakeholder Management, Agile, Team Leadership."
+  },
+  {
+    "id": "user_024",
+    "name": "Kevin Adams",
+    "email": "rthomas@yahoo.com",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["Internal Chat Tool", "HR Management System"],
+    "current_projects": ["CRM Upgrade"],
+    "skills": ["Postman", "JIRA", "Test Automation"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "Kevin Adams is a QC Tester in the Quality Assurance department. They have previously worked on projects such as Internal Chat Tool, HR Management System and are currently involved in CRM Upgrade. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as Postman, JIRA, Test Automation."
+  },
+  {
+    "id": "user_025",
+    "name": "Martin Greer",
+    "email": "drodriguez@davis.net",
+    "department": "Design",
+    "role": "Designer",
+    "past_projects": ["Mobile App Development", "Internal Chat Tool"],
+    "current_projects": ["E-Commerce Platform"],
+    "skills": ["UI/UX", "Figma", "Adobe XD"],
+    "raci": {
+      "Requirement Analysis": "Consulted",
+      "UI/UX Design": "Responsible",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Informed"
+    },
+    "description": "Martin Greer is a Designer in the Design department. They have previously worked on projects such as Mobile App Development, Internal Chat Tool and are currently involved in E-Commerce Platform. Their responsibilities in the RACI model include: Requirement Analysis (Consulted), UI/UX Design (Responsible), Feature Development (Informed), Testing (Informed), Product Approval (Informed). They possess skills such as UI/UX, Figma, Adobe XD."
+  },
+  {
+    "id": "user_026",
+    "name": "Lauren Erickson",
+    "email": "kimberly96@moore-sandoval.org",
+    "department": "Project Management",
+    "role": "Manager",
+    "past_projects": ["Customer Portal", "Mobile App Development"],
+    "current_projects": ["HR Management System"],
+    "skills": ["Scrum", "Stakeholder Management", "Agile"],
+    "raci": {
+      "Requirement Analysis": "Accountable",
+      "UI/UX Design": "Consulted",
+      "Feature Development": "Consulted",
+      "Testing": "Informed",
+      "Product Approval": "Responsible"
+    },
+    "description": "Lauren Erickson is a Manager in the Project Management department. They have previously worked on projects such as Customer Portal, Mobile App Development and are currently involved in HR Management System. Their responsibilities in the RACI model include: Requirement Analysis (Accountable), UI/UX Design (Consulted), Feature Development (Consulted), Testing (Informed), Product Approval (Responsible). They possess skills such as Scrum, Stakeholder Management, Agile."
+  },
+  {
+    "id": "user_027",
+    "name": "Jamie Odonnell",
+    "email": "joshuaandersen@wright.com",
+    "department": "Project Management",
+    "role": "Manager",
+    "past_projects": ["DevOps Pipeline Automation", "Analytics Dashboard"],
+    "current_projects": ["HR Management System"],
+    "skills": ["Scrum", "Agile", "Team Leadership"],
+    "raci": {
+      "Requirement Analysis": "Accountable",
+      "UI/UX Design": "Consulted",
+      "Feature Development": "Consulted",
+      "Testing": "Informed",
+      "Product Approval": "Responsible"
+    },
+    "description": "Jamie Odonnell is a Manager in the Project Management department. They have previously worked on projects such as DevOps Pipeline Automation, Analytics Dashboard and are currently involved in HR Management System. Their responsibilities in the RACI model include: Requirement Analysis (Accountable), UI/UX Design (Consulted), Feature Development (Consulted), Testing (Informed), Product Approval (Responsible). They possess skills such as Scrum, Agile, Team Leadership."
+  },
+  {
+    "id": "user_028",
+    "name": "William Ingram",
+    "email": "craigoliver@yahoo.com",
+    "department": "Quality Assurance",
+    "role": "QC Tester",
+    "past_projects": ["E-Commerce Platform", "Website Revamp"],
+    "current_projects": ["Analytics Dashboard"],
+    "skills": ["JIRA", "Manual Testing", "Selenium"],
+    "raci": {
+      "Requirement Analysis": "Informed",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Informed",
+      "Testing": "Responsible",
+      "Product Approval": "Informed"
+    },
+    "description": "William Ingram is a QC Tester in the Quality Assurance department. They have previously worked on projects such as E-Commerce Platform, Website Revamp and are currently involved in Analytics Dashboard. Their responsibilities in the RACI model include: Requirement Analysis (Informed), UI/UX Design (Informed), Feature Development (Informed), Testing (Responsible), Product Approval (Informed). They possess skills such as JIRA, Manual Testing, Selenium."
+  },
+  {
+    "id": "user_029",
+    "name": "Victoria Logan",
+    "email": "hrussell@moyer.com",
+    "department": "Project Management",
+    "role": "Manager",
+    "past_projects": ["CRM Upgrade", "Mobile App Development"],
+    "current_projects": ["HR Management System"],
+    "skills": ["Team Leadership", "Scrum", "Stakeholder Management"],
+    "raci": {
+      "Requirement Analysis": "Accountable",
+      "UI/UX Design": "Informed",
+      "Feature Development": "Consulted",
+      "Testing": "Consulted",
+      "Product Approval": "Responsible"
+    },
+    "description": "Victoria Logan is a Manager in the Project Management department. They have previously worked on projects such as CRM Upgrade, Mobile App Development and are currently involved in HR Management System. Their responsibilities in the RACI model include: Requirement Analysis (Accountable), UI/UX Design (Informed), Feature Development (Consulted), Testing (Consulted), Product Approval (Responsible). They possess skills such as Team Leadership, Scrum, Stakeholder Management."
+  },
+  {
+    "id": "user_030",
+    "name": "Dylan Lopez",
+    "email": "brucesantana@yahoo.com",
+    "department": "Design",
+    "role": "Designer",
+    "past_projects": ["Analytics Dashboard", "Mobile App Development"],
+    "current_projects": ["DevOps Pipeline Automation"],
+    "skills": ["Wireframing", "Figma", "Adobe XD"],
+    "raci": {
+      "Requirement Analysis": "Consulted",
+      "UI/UX Design": "Responsible",
+      "Feature Development": "Informed",
+      "Testing": "Informed",
+      "Product Approval": "Informed"
+    },
+    "description": "Dylan Lopez is a Designer in the Design department. They have previously worked on projects such as Analytics Dashboard, Mobile App Development and are currently involved in DevOps Pipeline Automation. Their responsibilities in the RACI model include: Requirement Analysis (Consulted), UI/UX Design (Responsible), Feature Development (Informed), Testing (Informed), Product Approval (Informed). They possess skills such as Wireframing, Figma, Adobe XD."
+  }
+]

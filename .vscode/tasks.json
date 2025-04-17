@@ -1,0 +1,42 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "RUN LLM",
+            "type": "shell",
+            "command": ".venv/bin/python",
+            "options": {
+                "cwd": "${workspaceFolder}/../llm/text-generation-webui"
+            },
+            "args": [
+                "server.py",
+                "--model",
+                "${input:chooseModel}",
+                "--api",
+                "--low_cpu_mem_usage"
+            ]
+        },
+        {
+            "label": "Download model",
+            "type": "shell",
+            "command": ".venv/bin/python",
+            "options": {
+                "cwd": "${workspaceFolder}/../llm/text-generation-webui"
+            },
+            "args": [
+                "download-model.py",
+                "${input:chooseModel}"
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "chooseModel",
+            "type": "promptString",
+            "description": "Enter the model name (e.g., gemma-2b-gguf)",
+            "default": "gemma-2b-gguf"
+        }
+    ]
+}

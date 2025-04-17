@@ -1,0 +1,52 @@
+- routine: "tools.report.create_report"
+  description: |
+    Generates a report for the specified time range.
+    Parameters:
+    -----------
+    date_begin : str
+        Start date in `yyyy-mm-dd` format (e.g., "2025-04-01").
+    date_end : str
+        End date in `yyyy-mm-dd` format (e.g., "2025-04-30").
+
+- routine: "tools.weather.view_weather"
+  description: |
+    View weather for a specific region within a specified date range.
+
+    The region name should be using non-Unicode characters.
+    For example, "Hà Nội" should be "Ha Noi" and "Hồ Chí Minh" should be "Ho Chi Minh".
+
+    Parameters:
+    -----------
+    region_name : str
+        The name of the region to view weather for. To ensure accurate searching,
+        please provide the region name using only non-Unicode characters
+        (e.g., 'Ho Chi Minh' for both 'Hồ Chí Minh' and 'TP Hồ Chí Minh').
+    date_from : str, optional
+        The start date for viewing weather information.
+        Defaults to today's date if not provided.
+        Maximum date range from 'date_from' to 'date_to' is 7 days.
+        Format: YYYY-MM-DD (e.g., 2025-04-18).
+    date_to : str, optional
+        The end date for viewing weather information.
+        Defaults to today's date if not provided.
+        Maximum date range from 'date_from' to 'date_to' is 7 days.
+        Format: YYYY-MM-DD (e.g., 2025-04-25).
+
+- routine: "tools.product.search_product"
+  description: |
+    Search product from api of Phong Vu.
+    Parameters:
+    -----------
+    name : str
+        Name of product. The product name might be incorrect, please standardize it properly for easy searching.
+
+- routine: "tools.employee.create_meeting"
+  description: |
+    Creates a meeting for employees with the following RACI guildlines
+    Parameters:
+    -----------
+    employees (required): list
+      A list of employee identifiers who will be part of the meeting.
+
+    raci_guildlines (required): str
+      A guildlines for rules of meeting by RACI flow
